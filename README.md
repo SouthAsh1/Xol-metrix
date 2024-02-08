@@ -37,6 +37,7 @@ This is addition to your choice of Xol 2 build BOM
 | 2   | M2x10 Self Tapping  | It really doesn't matter what type just has to self tap.                                      |
 | 1   | 0.5x4x15 Spring     | Simmilar spring to the Filametrix version but with thicker wire. `0.4x4x15 spring will work`  |
 | 1   | #4 Xacto style blade| Same blade used in the Filametrix only cut to a different length.                             |
+| Yes | PTFE Tube           | Still working out exact lengths and possibly cutting jigs.                                    |
 
 ## The build
 
