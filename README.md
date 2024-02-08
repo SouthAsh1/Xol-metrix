@@ -1,7 +1,7 @@
 
 # Xol Cutter
 
-<img src=https://media.discordapp.net/attachments/1019079041959084044/1204996068782112768/Xol_Cutter.PNG?ex=65d6c30a&is=65c44e0a&hm=2c86a2a38e064c2af612f1ec2dc954a0cd3613c65d4d216ad713ee35f7af6c1c&=&format=webp&quality=lossless&width=984&height=905width=984px>
+
 
 ## This project is still in BETA
 
