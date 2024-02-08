@@ -50,3 +50,8 @@ There is a blade jig in the STL folder that you just place the blade cutting sid
  - [Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) For Xol 2 project
  - [WristWatch-G2-Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder) For WWG2 and Extruder adapter
  - [Filametrix](https://github.com/sorted01/Filametrix) For the orginal mod idea
+
+## Feedback
+
+- [Armchair Discord User Projects Discussion](https://discord.com/channels/1029426383614648421/1195580104659710053)
+- My Discord `southash1`
