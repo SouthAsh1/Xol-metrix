@@ -44,3 +44,8 @@ On top of the build of Xol 2 follow this [Doc](https://docs.google.com/document/
 
 There is a blade jig in the STL folder that you just place the blade cutting side into it then clamp it down with M2 screws or other means and then use pliers to snap the blade close to the printed part. Sand if needed.
 
+## Acknowledgements
+
+ - [Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) For Xol 2 project
+ - [WristWatch-G2-Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder) For WWG2 and Extruder adapter
+ - [Filametrix](https://github.com/sorted01/Filametrix) For the orginal mod idea
