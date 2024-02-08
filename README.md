@@ -1,7 +1,7 @@
 
 # Xol Cutter
 
-<img src='doc/Xol Cutter.png' width=850 />
+<img src='doc/xol_cutter.png' width=850 />
 
 ## This project is still in BETA
 
