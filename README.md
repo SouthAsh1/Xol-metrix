@@ -19,11 +19,15 @@ So far the project supports the following hotends and extruders with more to com
 - Dragon SF/UHF/ACE
 - Rapido SF/UHF
 - Revo Voron
+- Bambu Labs *In BETA since official XOL 2 doesn't really support yet*
 
 ### Extruders
 
 - [Wrist Watch 2](https://github.com/tetsu97/WristWatch-G2-Extruder)
 - [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
+- [Orbiter](https://www.orbiterprojects.com/orbiter-v2-0/)
+- [G2SA](https://github.com/tetsu97/Galileo2)
+- [VZ Hextrudort](https://github.com/VzBoT3D/Vz-HextrudORT) / [Bondtech LGX Lite](https://www.bondtech.se/product/lgx-lite-v2-large-gears-extruder/)
 ## BOM
 
 This is addition to your choice of Xol 2 build BOM
