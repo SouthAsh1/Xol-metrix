@@ -19,7 +19,7 @@ So far the project supports the following hotends and extruders with more to com
 - Dragon SF/UHF/ACE
 - Rapido SF/UHF
 - Revo Voron
-- Bambu Labs *In BETA since official XOL 2 doesn't really support yet*
+- Bambu Labs *In BETA since official XOL 2 doesn't really support it yet*
 
 ### Extruders
 
