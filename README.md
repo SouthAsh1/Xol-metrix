@@ -46,7 +46,7 @@ This is addition to your choice of Xol 2 build BOM
 |**OR**|
 |1|OLFA KB4-F/5|Different blade otion if you are having problems with #4 blades.|
 ||
-|1|M3 Grubscrew|Same ones used to secure pulleys totally optional|
+|1|M3 Grubscrew|Same ones used to secure pulleys **totally optional**.|
 
 ## Acknowledgements
 
