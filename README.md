@@ -1,29 +1,27 @@
+# Xol-metrix
 
-# Xol Cutter
-
-<img src='doc/xol_cutter.png' width=850 />
-
-## This project is still in BETA
-
-This is a filament cutter designed around the Xol 2 platform a lot of the documentation is in beta and so is the project, just trying to get it to github for an easier way to distribute it. I'm a noob when it comes to doing anything on github so bear with me lol.
+<img src='Doc/images/full_render.png' width=850 />
 
 
+This is a filament cutter designed around the Xol 2 platform thanks to everyone that helped with the BETA process to get this project into a phase that I am comfortable in calling a released state. There will still be some small adjustments I will make when more feedback is given.
 
+I will support the next iteration of Xol 2 when DW Tas has put it into a released state.
 
+I do ask that if anyone makes any mods let me know so we can discuss if it makes since to put it in the repo.
 
-
-So far the project supports the following hotends and extruders with more to come!
+So far the project supports the following.
 
 ### Hotends
 
 - Dragon SF/UHF/ACE
+- NF-Crazy
 - Rapido SF/UHF
 - Revo Voron
 - Bambu Labs *In BETA since official XOL 2 doesn't really support it yet*
 
 ### Extruders
 
-- [Wrist Watch 2](https://github.com/tetsu97/WristWatch-G2-Extruder)
+- [Wrist Watch G2](https://github.com/tetsu97/WristWatch-G2-Extruder)
 - [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 - [Orbiter](https://www.orbiterprojects.com/orbiter-v2-0/)
 - [G2SA](https://github.com/tetsu97/Galileo2)
@@ -32,30 +30,28 @@ So far the project supports the following hotends and extruders with more to com
 
 This is addition to your choice of Xol 2 build BOM
 
-| Qty | Item              | Notes                                                                                                                       |
-| --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 3   | M3 Heatset Insert   | 5mm Outer Diameter x 4mm Length `Standard Voron spec`                                         |
-| 3   | M2.5 Heatset Insert | 3.5mm Outer Diameter x 4mm Length `Same as Xol 2 BOM`                                         |
-| 3   | M2 Heatset Insert   | 3.5mm Outer Diameter x 4mm Length `Same as Xol 2 BOM`                                         |
-| 3   | M2x8 SHCS           | To hold the extruder adapter together.                                                        |
-| 1   | 5.5mm Ball Bearing  | For toolhead filament sensor. `Same as ERCF BOM`                                              |
-| 1   | D2F-5L Micro Switch | Tis be switch that does clicky things.                                                        |
-| 2   | M2x10 Self Tapping  | It really doesn't matter what type just has to self tap.                                      |
-| 1   | 0.5x4x15 Spring     | Similar spring to the Filametrix version but with thicker wire. `0.4x4x15 spring will work`  |
-| 1   | #4 Xacto style blade| Same blade used in the Filametrix only cut to a different length.                             |
-| Yes | PTFE Tube           | Still working out exact lengths and possibly cutting jigs.                                    |
-
-## The build
-
-On top of the build of Xol 2 follow this [Doc](https://docs.google.com/document/d/1SKAF6VHhXhA64Z4uIKywSt5jq5D0fDKbgyQrExmpVV8/edit) to put the cutter together.
-
-There is a blade jig in the STL folder that you just place the blade cutting side into it then clamp it down with M2 screws or other means and then use pliers to snap the blade close to the printed part. Sand if needed.
+|Qty|Item|Notes|
+|-|-|-|
+|3|M2.5 Heatset Insert|3.5mm Outer Diameter x 4mm Length `Same as Xol 2 BOM`|
+|3|M2 Heatset Insert|3.5mm Outer Diameter x 4mm Length `Same as Xol 2 BOM`|
+|2|M2.5x15 SHCS|For mounting the arm to the frame and blade holder.|
+|3|M2x8 SHCS|To hold the extruder adapter together.|
+|1|5.5mm Ball Bearing|For toolhead filament sensor. `Same as ERCF BOM`|
+|1|Omron D2F Micro Switch|Tis be switch that does clicky things.|
+|2|M2x10 Self Tapping|It really doesn't matter what type just has to self tap.|
+|1|0.5x4x15 Spring|Any spring that is 4mm in diameter and no longer than 15mm should work your milage may vary for cutting force needed.|
+|Yes|PTFE Tube|Still working out exact lengths and possibly cutting jigs.|
+||
+|1|#4 metal hobby blades|Same blade used in the Filametrix only cut to a different length.|
+|**OR**|
+|1|OLFA KB4-F/5|Different blade otion if you are having problems with #4 blades.|
 
 ## Acknowledgements
 
  - [Xol-Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) For Xol 2 project
  - [WristWatch-G2-Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder) For WWG2 and Extruder adapter
  - [Filametrix](https://github.com/sorted01/Filametrix) For the orginal mod idea
+ - Thanks to Tea/`nurse.shark` for alowing me to use the Xolametrix name (I did change it slightly)
 
 ## Feedback
 
