@@ -32,7 +32,8 @@ This is addition to your choice of Xol 2 build BOM
 
 |Qty|Item|Notes|
 |-|-|-|
-|3|M2.5 Heatset Insert|3.5mm Outer Diameter x 4mm Length `Same as Xol 2 BOM`|
+|2|M2 Flanged Heatset Insert|Specifically this heatset [HM20X157C](https://www.digikey.com/en/products/detail/tri-star-industries-inc/HM20X157C/14205393)|
+|1|M2.5 Heatset Insert|3.5mm Outer Diameter x 4mm Length `Same as Xol 2 BOM`|
 |3|M2 Heatset Insert|3.5mm Outer Diameter x 4mm Length `Same as Xol 2 BOM`|
 |2|M2.5x15 SHCS|For mounting the arm to the frame and blade holder.|
 |3|M2x8 SHCS|To hold the extruder adapter together.|
