@@ -42,11 +42,11 @@ This is addition to your choice of Xol 2 build BOM
 |2|M2x10 Self Tapping|It really doesn't matter what type just has to self tap.|
 |1|0.5x4x15 Spring|Any spring that is 4mm in diameter and no longer than 15mm should work your milage may vary for cutting force needed.|
 |Yes|PTFE Tube|Still working out exact lengths and possibly cutting jigs.|
-||
+|**OPTIONS**|
 |1|#4 metal hobby blades|Same blade used in the Filametrix only cut to a different length.|
 |**OR**|
 |1|OLFA KB4-F/5|Different blade otion if you are having problems with #4 blades.|
-||
+|**OPTIONAL**|
 |1|M3 Grubscrew|Same ones used to secure pulleys **totally optional**.|
 
 ## Acknowledgements
