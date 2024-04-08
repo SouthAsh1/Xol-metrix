@@ -55,6 +55,7 @@ This is addition to your choice of Xol 2 build BOM
  - [WristWatch-G2-Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder) For WWG2 and Extruder adapter
  - [Filametrix](https://github.com/sorted01/Filametrix) For the orginal mod idea
  - Thanks to Tea/`nurse.shark` for alowing me to use the Xolametrix name (I did change it slightly)
+ - Thanks to scheini79/`zerodegree79` for the XolPAP modification.
 
 ## Feedback
 
