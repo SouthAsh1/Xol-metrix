@@ -1,7 +1,7 @@
 
 # Xol-metrix Assembly
 
-This project assumes you know how to build the standard XOL 2 toolhead with this build assembly thrown into the mix.
+This project assumes you know how to build the standard Xol Toolhead with this build assembly thrown into the mix.
 
 |	Notes	|	Image	|
 |	--------------------	|	--------------------	|
@@ -26,4 +26,4 @@ This project assumes you know how to build the standard XOL 2 toolhead with this
 |Use a small slim screwdriver of sorts to persuade the spring into the recess in the extruder mount while sliding the arm into its final position.|<img src='images/spring_arm_full _install.png' width=300 />|
 |Install the 2 `M2.5x15 SHCS` into the frame and blade holder to finish up the cutter install.|<img src='images/arm_screw_install.png' width=300 />|
 |If using XolPAP Install the `M2.5x15 SHCS` on the back side of the arm shown here. (Thanks to scheini79 for the suggestion!)|<img src='images/xolpap_screw_install.png' width=300 />|
-|After all this the rest of the XOL 2 will go together the same as the standard one.|<img src='images/final_build.png' width=300 />|
+|After all this the rest of the Xol Toolhead will go together the same as the standard one.|<img src='images/final_build.png' width=300 />|
