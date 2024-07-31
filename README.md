@@ -5,7 +5,9 @@
 
 This is a filament cutter designed around the Xol Toolhead platform thanks to everyone that helped with the BETA process to get this project into a phase that I am comfortable in calling a released state. There will still be some small adjustments I will make when more feedback is given.
 
-I will support the next iteration of Xol Toolhead when DW Tas has put it into a released state.
+Now supports current version of Xol Toolhead! CAD included.
+
+Does support non-heatset version of Xol, however, the cutting arm mount still requires it. So anything that is non-heatset does not require heatsets asside from that.
 
 I do ask that if anyone makes any mods let me know so we can discuss if it makes since to put it in the repo.
 
@@ -16,8 +18,10 @@ So far the project supports the following.
 - Dragon SF/UHF/ACE
 - NF-Crazy
 - Rapido SF/UHF
+- Rapido V2 SF/UHF
 - Revo Voron
-- Bambu Labs *In BETA since official Xol Toolhead doesn't really support it yet*
+- DropEffect XG
+- Bambu Labs
 
 ### Extruders
 
